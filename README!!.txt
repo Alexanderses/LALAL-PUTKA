@@ -1,0 +1,1 @@
+To open the game press New Unity Project (1)
